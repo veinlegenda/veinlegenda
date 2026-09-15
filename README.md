@@ -44,7 +44,7 @@
 ---
 
 ### 📌 Проекты
-
+    Самые простые проекты. Загрузил потому что были под рукой.
 - **[to-do-list-js](https://github.com/veinlegenda/to-do-list-js)** — планировщик задач на чистом JavaScript.
 - **[console-quiz-csharp](https://github.com/veinlegenda/console-quiz-csharp)** — консольная викторина на C# с подсчётом очков.
 - **[weather-parser-python](https://github.com/veinlegenda/weather-parser-python)** — питон-скрипт, показывающий погоду по городу через API.
