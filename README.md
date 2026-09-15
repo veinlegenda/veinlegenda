@@ -59,5 +59,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veinlegenda" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veinlegenda&theme=dark&hide_border=true&background=1e1e2e&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
 </p>
