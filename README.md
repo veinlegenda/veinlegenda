@@ -13,7 +13,7 @@
   <a href="https://discord.com/users/axyenchik"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://t.me/veinlegenda"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/veinlegenda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your-soboleb.kirya.03@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:soboleb.kirya.03@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -51,17 +51,13 @@
 
 ---
 
-### 🐍 Активность
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/veinlegenda/veinlegenda/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 📊 GitHub-статистика
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=veinlegenda&show_icons=true&theme=default" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veinlegenda&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veinlegenda" />
 </p>
