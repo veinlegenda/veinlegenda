@@ -54,10 +54,5 @@
 ### 📊 GitHub-статистика
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=veinlegenda&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veinlegenda&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veinlegenda&theme=dark&hide_border=true&background=1e1e2e&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veinlegenda&locale=ru&theme=dark&hide_border=true&background=1e1e2e&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
 </p>
